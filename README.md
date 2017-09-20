@@ -1,6 +1,7 @@
 # Nightly-Checks
 
 Author: Mitchell Palermo
+
 Email: mpalermo@trinity.edu
 
 
