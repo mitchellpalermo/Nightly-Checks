@@ -30,3 +30,9 @@ After the rooms are read in, the new value of `bookmark` is written to spreadshe
 The program then adds the link to the nightly checks google form at the bottom of the assignment email.
 
 The last step is to send the email.
+
+## Other steps that need to be taken
+
+You must set up triggers for your code to run. I reccomend using "time-based" triggers. I've set my project to run daily at 5pm. 
+
+This code needs permission from a google account to be able to send emails and work in the Google Sheets document. I authorized the permissions from our departmental account so that this process wasn't dependent on me. 
