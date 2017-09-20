@@ -21,7 +21,7 @@ Reading data from and writing data to a Google Sheets file. Within this file the
 
 These spreadsheets are pulled into the project by searching for their name. Then the program determines the day of the week and using that value, the correct student name is read in from sheet # 3. The subject of the email is then assigned.
 
-The "bookmark" value is then read in from spreadsheet # 2. This value will later tell the program where we left off in our list of rooms. 
+The `bookmark` value is then read in from spreadsheet # 2. This value will later tell the program where we left off in our list of rooms. 
 
 A for loop then begins executing using the value from the bookmark file. Essentially it is reading in a room from spreadsheet # 1 and adding it to the body of our assignment email. Every time the loop iterates is moves down by one row in the spreadsheet, making sure to add 1 to the bookmark value during every iteration. 
 
