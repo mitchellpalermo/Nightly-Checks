@@ -64,7 +64,7 @@ function main()
 
   bookmarkCell.setValue(oldBookmark);//write new bookmark value to our sheet
 
-  toCheck += "\n The Nightly Checks form can be found here: \n https://goo.gl/forms/INLZ6skTHTdRusuj2";
+  toCheck += "\n The Nightly Checks form can be found here: \n {google forms link here}";
   //sending email
   MailApp.sendEmail(studentEmail, subject, toCheck)
 
