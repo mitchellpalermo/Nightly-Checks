@@ -5,7 +5,7 @@ Author: Mitchell Palermo
 Email: mpalermo@trinity.edu
 
 
-This project is meant to be used in conjunction with Google Sheets. The code here is being used from a google account that is a part of a Google for Education Enterprise group. So if your campus is not a google campus, this may not work for you. 
+This project is meant to be used in conjunction with Google Sheets. The code here is being used from a google account that is a part of a Google for Education Enterprise group. So if your campus is not a google campus, this may not work for you. You'll see at the bottom a section to add a link it'll look like this `{add google forms link here}`. Replace that text and the brackets with the link to your google form that you've created.  
 
 ## The program's purpose is to
 
